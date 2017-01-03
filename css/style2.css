@@ -1,0 +1,23 @@
+h1{
+  color:purple;
+  font-family: monospace;
+  font-style: italic;
+  font-size: 100px;
+  text-align: left;
+}
+
+h2{
+  color:yellow;
+  font-family: cursive;
+  font-style: oblique;
+  font-size: 67px;
+  text-align: right;
+}
+
+body{
+  color:green;
+  font-family: serif;
+  font-style: italic;
+  font-size: 45px;
+  text-align: justify;
+}
